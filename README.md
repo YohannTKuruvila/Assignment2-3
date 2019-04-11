@@ -5,13 +5,13 @@ The following code is assignment 2 and 3, a dashboard which allows you to store 
 # Students 
 Yohann Kuruvila - 991538687
 
-#Technologies Used: 
+# Technologies Used: 
 HTML/CSS/JS
 
-#API Used: 
+# API Used: 
 Open Weather Map
 
-#Instructions
+# Instructions
 
 Clone to your hard disk, and then open index.html in a browser of your choosing. 
 
