@@ -18,3 +18,6 @@ Clone to your hard disk, and then open index.html in a browser of your choosing.
 
 ![Screen Shot 2019-04-10 at 9 01 40 PM](https://user-images.githubusercontent.com/20323662/55923640-43c9be00-5bd4-11e9-8009-49fe2617b477.png)
 
+# GIF
+
+In this folder, but too large to be displayed here.

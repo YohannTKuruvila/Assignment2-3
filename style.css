@@ -1,0 +1,72 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1554300889-158df650616e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=710&q=80);
+  font-family: 'Montserrat', sans-serif;
+}
+
+#startName {
+  color: white;
+}
+
+.focusSet {
+    background-color: transparent; 
+}
+
+.centerDiv {
+  text-align: center;
+  height: auto; 
+  top: 50%;
+  left: 50%; 
+  position: absolute;
+  transform: translate(-50%, -50%);  
+}
+
+#greeting {
+  font-size: 50px;
+}
+
+#homePage {
+  color: white;
+}
+
+#clock {
+  font-size: 70px;
+}
+
+ .focusSet {
+   font-size: 30px;
+ }
+
+ #DoList {
+   position: fixed;
+   bottom: 0%;
+   right: 10px;
+ }
+
+#quoteDiv {
+  position: fixed;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, 0);  
+}
+
+.input {
+  color: white;
+  background: transparent;
+  border: none;
+  border-bottom:solid white;
+  font-size: 25px;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+}
+
+#focusList {
+  font-size: 30px;
+}
